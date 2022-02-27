@@ -1,0 +1,18 @@
+main{
+    .languages{
+        background-color: #159c4b;
+        > div{
+            a{
+                text-decoration: none;
+                span{
+                    width: 35px;
+                    height: 35px;
+                    background-color: #fff;
+                    i{
+                        color: #159c4b;
+                    }
+                }
+            }
+        }
+    }
+}
